@@ -1,0 +1,8 @@
+requests
+pandas
+lxml
+yfinance
+finvizfinance
+python-dotenv
+google-genai
+anthropic
